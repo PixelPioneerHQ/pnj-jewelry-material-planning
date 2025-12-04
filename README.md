@@ -868,8 +868,8 @@ flowchart TD
 
 | Term | Definition |
 |------|------------|
-| **BASIC_NEW_2** | Product family identifier for jewelry items |
-| **PFSAP** | Product structure classification code |
+| **BASIC_NEW_2** | Product structure classification code |
+| **PFSAP** | Product family identifier on SAP for jewelry items |
 | **ZT02** | Component type code for manufacturing stones |
 | **NI Framework** | Size classification system for jewelry pieces |
 | **VS1** | Diamond clarity grade (Very Slightly Included 1) |
