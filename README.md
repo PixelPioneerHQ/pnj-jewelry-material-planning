@@ -193,8 +193,8 @@ This stage processes jewelry Bill of Materials (BOM) data and performs complex p
 
 | Column | Description | Data Type |
 |--------|-------------|-----------|
-| `BASIC_NEW_2` | Product family identifier | STRING |
-| `PFSAP` | Product structure code | STRING |
+| `BASIC_NEW_2` | Product structure code | STRING |
+| `PFSAP` | Product family identifier on SAP | STRING |
 | `D0` | Demand quantity | INTEGER |
 | `PRODUCT_CODE_LEFT_13` | Product code (13 characters) | STRING |
 | `COMP_MAT_CODE` | Component material code | STRING |
